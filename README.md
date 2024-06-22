@@ -1,0 +1,4 @@
+Explorar o Trade-off entre eficiência energética e poder preditivo de modelos de aprendizado de máquina é algo que não tem sido estudado com tanta profundidade. 
+Observa-se um aumento acelerado do número de parâmetros em detrimento do baixo engajamento em discussões de impacto energético. 
+Assim, levantamos a discussão sobre a necessidade do aumento desordenado de complexidade algorítmica. Neste estudo, foram avaliados a acurária, precisão e recall de cinco algoritmos de Aprendizado de Máquina supervisionado e também foi considerado o consumo energético para a execução dos mesmos. Foi observado que a Regressão Logística apresentou a melhor acurácia e o menor impacto energético. Em contrapartida, a Rede Neural apresentou maior gasto de energia e seu resultado não apresentou melhoras significativas. 
+Portanto, foi possível concluir que modelos mais complexos nem sempre apresentam um desempenho melhor.
